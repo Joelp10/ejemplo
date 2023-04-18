@@ -1,6 +1,6 @@
 # Práctica de SCM
 Objetivos:FDSFSSDFSFDSFFDSFSDDGFDSGSFDGSFD
-* Clonar un repositorio Git en forma local
+* Clonar un repDSFFDSSDFSDFDSDSositorio Git en forma local
 * Realizar operaciones de versionado a través de la terminal
 * Crear ramas y combinar cambios
 * Publicar cambios en el repositorio remoto
